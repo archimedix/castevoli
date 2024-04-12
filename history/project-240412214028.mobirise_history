@@ -47,7 +47,9 @@
       }
     ],
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "file:///Users/archimedix/Downloads/mobirise"
   },
   "pages": {
     "index.html": {
